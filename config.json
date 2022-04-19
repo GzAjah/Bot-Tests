@@ -1,0 +1,9 @@
+{
+	"ip":"fantasd.aternos.me",
+	"port": "58574",
+	"name": "GBot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
